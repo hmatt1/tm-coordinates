@@ -1,0 +1,16 @@
+[meta]
+name = "Coordinates"
+author = "hmatt1"
+category = "Overlay"
+
+blocks = []
+
+version = "0.1"
+siteid = 380
+
+[game]
+min_version = "2022-01-01"
+
+[script]
+imports = []
+dependencies = ["VehicleState"]
