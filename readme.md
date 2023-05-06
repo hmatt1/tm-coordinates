@@ -1,5 +1,7 @@
 # TrackMania Coordinates
 
+[![Total Downloads](https://img.shields.io/badge/dynamic/json?color=green&label=Downloads&query=downloads&url=https%3A%2F%2Fopenplanet.dev%2Fapi%2Fplugin%2F380)](https://openplanet.dev/plugin/coordinates)
+
 OpenPlanet plugin for TrackMania that displays the car's coordinates.
 
 ## Releases
